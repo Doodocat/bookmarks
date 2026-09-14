@@ -1,7 +1,3 @@
-# Adi's Dot-Bookmark
-
-> **Note:** Everything listed in this repository represents the websites, tools, and resources that I personally use and rely on.
-
 ## Quick Jump
 
 - [Web Development & Frameworks](#web-development--frameworks)
@@ -9,10 +5,9 @@
 - [Terminal & Browser Setup](#terminal--browser-setup)
 - [Digital Libraries & Tools](#digital-libraries--tools)
 - [Knowledge & Notes](#knowledge--notes)
-    <!-- - [Science & Astronomy](#science--astronomy) -->
 - [Strategy, Cinema & Media](#strategy-cinema--media)
 
----
+
 
 ## Web Development & Frameworks
 
